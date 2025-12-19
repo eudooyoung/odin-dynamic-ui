@@ -1,1 +1,3 @@
-console.log("Hello npm!");
+import { test } from "./drop-down.js";
+
+test();
